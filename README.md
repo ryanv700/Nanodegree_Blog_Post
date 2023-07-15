@@ -35,6 +35,5 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
 
-Credit to the Notebook "Seattle Airbnb Exploration" created by kaggle usder Kuixi Zhu. A significant amount of code for data cleaning and feature engineering in this project was used from this notebook in 
-this project. The link is available here: [here](https://www.kaggle.com/code/kuixizhu/seattle-airbnb-exploration#2.3.1-Two-Sample-Independent-T-Test)
+Credit to the Notebook "Seattle Airbnb Exploration" created by kaggle user Kuixi Zhu. A significant amount of code for data cleaning and feature engineering in this project was used from this notebook. The link is available here: [here](https://www.kaggle.com/code/kuixizhu/seattle-airbnb-exploration#2.3.1-Two-Sample-Independent-T-Test)
 
