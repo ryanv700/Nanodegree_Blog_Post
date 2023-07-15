@@ -37,3 +37,5 @@ Must give credit to Stack Overflow for the data.  You can find the Licensing for
 
 Credit to the Notebook "Seattle Airbnb Exploration" created by kaggle user Kuixi Zhu. A significant amount of code for data cleaning and feature engineering in this project was used from this notebook. The link is available here: [here](https://www.kaggle.com/code/kuixizhu/seattle-airbnb-exploration#2.3.1-Two-Sample-Independent-T-Test)
 
+Additional credit to Udacity support for help with blog image and formatting
+
