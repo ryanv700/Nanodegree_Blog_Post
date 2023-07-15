@@ -25,7 +25,7 @@ For this project, I was interestested in using the Seattle Airbnb Open Data to b
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebooks available here to showcase work related to the above questions.  
+There is 2 notebooks available here to showcase work related to the above questions. There is an original notebook and there is also V2 of the notebook to show the project with the requested corrections.
 
 ## Results<a name="results"></a>
 
